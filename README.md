@@ -1,5 +1,10 @@
-# RCS-NVivo
+# Online NVivo Labs by Research Computing Services
+
+Hey Everyone!
+
 This repository contains basic training materials to familiarise you with NVivo 12 - Computer Assisted Qualitative Data Analysis Software (CAQDAS) developed by QSR International. 
+
+This resource is designed for researchers at the University of Melbourne. Staff and students at the University can download and access a full license for NVivo at: http://go.unimelb.edu.au/bt9r
 
 This is a self-paced learning lab. There are three labs which you can work through to learn NVivo:
 
