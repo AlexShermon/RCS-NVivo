@@ -22,7 +22,7 @@ This final lab will teach you some more advanced functions of NVivo. In this lab
 
 # Further Resources
 
-The further resources folder contains open-source academic literature and content which you can use to develop your understanding of NVivo.
+Files prefixed with FR are further open-source resources which you can use to develop your understanding of NVivo beyond the scope of these learning labs.
 
 # Any Questions?
 
