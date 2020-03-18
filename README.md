@@ -14,7 +14,7 @@ The NVivo ResPitch contains a very short introductory challenge to give you a qu
 
 ## Module 2: Introduction to NVivo
 
-The Introduction to NVivo lab will provide a broader introduction to and understanding of NVivo. Whilst you will again import and code files, this will be framed within qualitative research methodologies. NVivo is just one tool of many that you can use in research, and this Introduction will highlight the strengths and limitations of the tool. You will also learn the importance of questions in relation to your research question, and how to do a basic Word Cloud visualisation. 
+The Introduction to NVivo module will provide a broader introduction to and understanding of NVivo. Whilst you will again import and code files, this will be framed within qualitative research methodologies. NVivo is just one tool of many that you can use in research, and this Introduction will highlight the strengths and limitations of the tool. You will also learn the importance of questions in relation to your research question, and how to do a basic Word Cloud visualisation. 
 
 ## Module 3: Intermediate NVivo Skills
 
