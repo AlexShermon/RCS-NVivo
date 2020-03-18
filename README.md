@@ -8,7 +8,7 @@ This resource is designed for researchers at the University of Melbourne. Staff 
 
 This is a self-paced learning lab. There are three labs which you can work through to learn NVivo:
 
-## The ResPitch
+## The ResPitch (http://go.unimelb.edu.au/2d9r)
 
 The NVivo ResPitch contains a very short introductory challenge to give you a quick taste of the software. You will learn how to import and code files in NVivo, and why it's an efficient tool for qualitative and mixed-methods research. The in-person ResPitch takes around 30 minutes.
 
